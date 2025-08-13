@@ -73,7 +73,7 @@ You should be comfortable with:
 ### Code Standards
 
 All code examples in this book:
-- Use the latest stable version of ink! (4.x series at time of writing)
+- Use the latest stable version of ink! (6.x series at time of writing)
 - Follow Rust community style guidelines (`rustfmt` compatible)
 - Are complete and runnable (not pseudocode)
 - Include comprehensive comments explaining non-obvious logic
