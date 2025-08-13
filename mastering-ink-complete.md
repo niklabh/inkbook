@@ -9469,7 +9469,7 @@ This book was created to provide a comprehensive guide to ink! smart contract de
 
 ### Technical Specifications
 
-- **ink! Version**: 4.x series
+- **ink! Version**: 6.x series
 - **Rust Edition**: 2021
 - **Primary Toolchain**: cargo-contract
 - **Target Environment**: WebAssembly (WASM)
@@ -9477,7 +9477,7 @@ This book was created to provide a comprehensive guide to ink! smart contract de
 
 ### Contributing
 
-This book is designed to be a living resource for the ink! community. For updates, corrections, or contributions, please refer to the project repository.
+This book is designed to be a living resource for the ink! community. For updates, corrections, or contributions, please refer to the project repository: https://github.com/niklabh/inkbook.
 
 ### License
 
